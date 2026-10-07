@@ -1,0 +1,5 @@
+# Comparaci-n_inventarios_NEOVIDEO
+"Este proyecto es para poder comparar inventarios de la empresa NEOVIDEO.SL mediante un programa que lo haga automáticamente con preguntas"
+
+
+1. "7/10/2026" hoy he implementado un sistema que te pide la ruta del directorio de trabajo junto con si quieres crear otro para no tener que dejarlo en la raíz y dejarlo dentro de una carpeta junto os.path.join que admite una ruta valida y un archivo también cabe recalcar que he puesto que tengas que meter el nombre del archivo ya que si lo metes con otra extensión o simplemente con otro nombre es otro archivo independiente pero si escribes tal cual el nombre + la extensión se conservará en el directorio nuevo ya tenga cambios o no ese archivo ya que de momento quiero implementar que se pueda dejar el arhivo tal cual en la raíz para no tener que obligar al usuario a crear un directorio nuevo de trabajo.
